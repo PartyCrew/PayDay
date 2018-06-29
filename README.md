@@ -3,6 +3,7 @@ PayDay is a simple plugin for server owners who have players always asking for t
 # Open Source / Redistribution Terms 
 #### **Allowed**
 + You are allowed to use this source code for your own projects.
++ You must give credit to me ( Pvpeon / TwistedLobby )
 
 #### **Not Allowed**
 + You are not allowed to sell this code in a plugin.
