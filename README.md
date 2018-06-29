@@ -9,4 +9,6 @@ You are not allowed to claim as your code.
 ___
 By downloading this you agree to these Terms!
 
-# Open Source / Redistribution Terms 
+# Future / To-do List
++ Allow the user to only buy day if the current time is within night range.
++ Revamp the commands and config
