@@ -1,0 +1,4 @@
+Price: 100
+Not Enough Money: '&6{player} &4you don"t have enough money to buy day.'
+No Permission: '&6{player} &4you don"t have permission for this command.'
+Bought Day: '&6{player} &ahas bought day!'

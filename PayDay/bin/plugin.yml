@@ -1,0 +1,12 @@
+name: PayDay
+version: 1.0.5
+main: me.pvpeon.payday.Main
+depend: [Vault]
+author: Pvpeon
+description: Allows you to set day buy buying it!
+
+commands:
+  payday:
+    description: Buy day for the whole server.
+  pdreload:
+    description: Reload the Payday Plugin Config
