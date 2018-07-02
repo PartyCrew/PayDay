@@ -1,4 +1,22 @@
-Price: 100
-Not Enough Money: '&6{player} &4you don"t have enough money to buy day.'
-No Permission: '&6{player} &4you don"t have permission for this command.'
+###
+# PayDay developed by Pvpeon/TwistedLobby
+# Version 1.0.6
+# Amount of Money the user has to pay to set day
+###
+Price: 5000
+
+###
+# When user doesn't have enough money
+###
+Not Enough Money: '&6{player} &cyou don''t have enough money to buy day. &6Price: &c$&a{cost}'
+
+###
+# When user doesn't have permission
+###
+No Permission: '&6{player} &cyou don''t have permission for this command.'
+
+###
+# When user bough day successful
+# Broadcast to whole server
+###
 Bought Day: '&6{player} &ahas bought day!'
